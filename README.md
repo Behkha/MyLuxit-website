@@ -1,4 +1,4 @@
-# chaarpaye
+# MyLuxit
 
 ## Project setup
 ```
